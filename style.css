@@ -1,0 +1,30 @@
+.welcomeText{
+    display: flex;
+    min-width: 100px;
+    min-height: 100px;
+    background-color: green;
+}
+.infoJS{
+    display: flex;
+    min-width: 500px;
+    min-height: 100px;
+    background-color: aqua;
+    font-family: Arial;
+    font-size: medium;
+}
+.moreInfo{
+    display: flex;
+    min-width: 100px;
+    min-height: 100px;
+    background-color: rgba(89, 255, 0, 0.52);
+    font-family: Arial;
+    font-size: medium;
+}
+.peremennye{
+    display: flex;
+    min-width: 100px;
+    min-height: 100px;
+    background-color: rgba(255, 38, 0, 0.52);
+    font-family: Arial;
+    font-size: medium;
+}
